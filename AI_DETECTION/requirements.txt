@@ -1,0 +1,5 @@
+cv2
+tensorflow
+numpy
+matplotlib.pyplot
+os
